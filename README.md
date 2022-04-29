@@ -1,6 +1,15 @@
 <h1 align="center">Hi 🥴, I'm Kaan</h1>
 <h3 align="center">I'm Game Developer. Everyday I'm trying to improve myself and I want to share my works to here.</h3>
 
+- 🌱 I’m currently learning ▶▶ **UNITY,BLENDER, C#**
+
+- 📝 I regularly write devlogs on ▶▶ [https://sites.google.com/view/k3dev](https://sites.google.com/view/k3dev)
+
+- 📫 How to reach me ▶▶▶ **kaanakay69@hotmail.com**
+
+- 📄 Know about my experiences ▶▶ I've been actively using unity since day October,2021.
+
+
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://twitter.com/kalinixk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalinixk3" height="30" width="40" /></a>
@@ -8,7 +17,7 @@
 <a href="https://instagram.com/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanerayakay" height="30" width="40" /></a>
 <a href="https://www.behance.net/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kaanerayakay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaanerayakay" height="30" width="40" /></a>
-<a href="https://discord.gg/KaLiniXK3#7886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KaLiniXK3#7886" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/307169981618192397 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="307169981618192397" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools :</h3>
