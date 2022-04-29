@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaan</h1>
+<h1 align="center">Hi 🥴, I'm Kaan</h1>
 <h3 align="center">I'm Game Developer. Everyday I'm trying to improve myself and I want to share my works to here.</h3>
 
 <h3 align="center">Connect with me :</h3>
