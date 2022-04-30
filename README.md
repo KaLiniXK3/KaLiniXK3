@@ -7,16 +7,16 @@
 
 - 📫 How to reach me ▶▶▶ **kaanakay69@hotmail.com**
 
-- 📄 Know about my experiences ▶▶ I've been actively using unity since day October,2021.
+- 📄 Know about my experiences ▶▶ I've been actively using unity since day October,2021. Beginner Level Blender
 
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
-<a href="https://twitter.com/kalinixk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalinixk3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaanerayakay" height="30" width="40" /></a>
-<a href="https://instagram.com/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanerayakay" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaanerayakay" height="30" width="40" /></a>
 <a href="https://www.behance.net/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kaanerayakay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaanerayakay" height="30" width="40" /></a>
+<a href="https://instagram.com/kaanerayakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanerayakay" height="30" width="40" /></a>
+<a href="https://twitter.com/kalinixk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalinixk3" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/307169981618192397 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="307169981618192397" height="30" width="40" /></a>
 </p>
 
