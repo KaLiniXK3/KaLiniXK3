@@ -5,7 +5,7 @@
 
 - 📝 I regularly write devlogs on ▶▶ [https://sites.google.com/view/k3dev](https://sites.google.com/view/k3dev)
 
-- 📫 How to reach me ▶▶▶ **kaanakay69@hotmail.com**
+- 📫 How to contact with me ▶▶▶ **kaanakay69@hotmail.com**
 
 - 📄 Know about my experiences ▶▶ I've been actively using unity since day October,2021. Beginner Level Blender
 
