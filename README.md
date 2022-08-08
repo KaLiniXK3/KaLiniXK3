@@ -7,8 +7,12 @@
 
 - 📫 How to contact with me ▶▶▶ **kaanakay69@hotmail.com**
 
-- 📄 Know about my experiences ▶▶ I've been actively using unity since day October,2021. Beginner Level Blender
+- 📄 Know about my experiences 
+Softwares ▶▶  Unity (Intermediate), Blender (Intermediate), Adobe XD (Advanced), Adobe Substance 3D Painter(Beginner), Adobe Photoshop (Intermediate), Adobe Premiere Pro (Intermediate), Adobe After Effects (Basic)
 
+Software Language ▶▶ C Sharp (Intermediate), Python (Intermediate)
+
+Languages ▶▶ English (Intermediate) , Italian (Beginner)
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
