@@ -10,7 +10,7 @@
 - 📄 Know about my experiences 
 Softwares ▶▶  Unity (Intermediate), Blender (Intermediate), Adobe XD (Advanced), Adobe Substance 3D Painter(Beginner), Adobe Photoshop (Intermediate), Adobe Premiere Pro (Intermediate), Adobe After Effects (Basic)
 
-Software Language ▶▶ C Sharp (Intermediate), Python (Intermediate)
+Software Language ▶▶ C Sharp (Intermediate)
 
 Languages ▶▶ English (Intermediate)
 
