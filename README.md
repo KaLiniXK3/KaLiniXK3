@@ -12,7 +12,7 @@ Softwares ▶▶  Unity (Intermediate), Blender (Intermediate), Adobe XD (Advanc
 
 Software Language ▶▶ C Sharp (Intermediate), Python (Intermediate)
 
-Languages ▶▶ English (Intermediate) , Italian (Beginner)
+Languages ▶▶ English (Intermediate)
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
