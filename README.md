@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🥴, I'm Kaan</h1>
 <h3 align="center">I'm Game Developer. Everyday I'm trying to improve myself and I want to share my works to here.</h3>
 
-- 🌱 I’m currently learning ▶▶ **UNITY,BLENDER, C#**
+- 🌱 I’m currently learning ▶▶ **UNITY,BLENDER, C#, XR**
 
-- 📝 I regularly write devlogs on ▶▶ [https://sites.google.com/view/k3dev](https://sites.google.com/view/k3dev)
+- 📝 Portfolio ▶▶ www.kaanerayakay.com
 
 - 📫 How to contact with me ▶▶▶ **kaanakay69@hotmail.com**
 
