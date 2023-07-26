@@ -8,7 +8,7 @@
 - 📫 How to contact with me ▶▶▶ **kaanakay69@hotmail.com**
 
 - 📄 Know about my experiences 
-Softwares ▶▶  Unity (Intermediate), Blender (Intermediate), Adobe XD (Advanced), Adobe Substance 3D Painter(Beginner), Adobe Photoshop (Intermediate), Adobe Premiere Pro (Intermediate), Adobe After Effects (Basic)
+Softwares ▶▶  Unity (Intermediate), Blender (Intermediate)
 
 Software Language ▶▶ C Sharp (Intermediate)
 
